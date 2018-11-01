@@ -1,7 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
+<<<<<<< HEAD
  //// this is a test for GITHUB
 
+=======
+>>>>>>> c4368203950b992bfb3ec27ba129a43f98862cc4
 @Component({
   selector: 'app-test',
   template: `
