@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 <<<<<<< HEAD
- //// this is a test for GITHUB
+ //// this i
 
 =======
 >>>>>>> c4368203950b992bfb3ec27ba129a43f98862cc4
